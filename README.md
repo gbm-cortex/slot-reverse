@@ -1,6 +1,6 @@
 # Slot-Reverse
 ## Subversion and sabotage of slot machines.
-The newly born project aims to collect methods, practices, and tools for the recovery, reappropriation, and redesign of slot machines.
+The newly born project aims to collect methods, practices, and tools for the recovery, reappropriation, and redesign of of predatory gambling machines.
 
 _________
 # Slot-Reverse
